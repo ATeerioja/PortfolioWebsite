@@ -1,0 +1,4 @@
+{
+  "appService.defaultWebAppToDeploy": "undefined/subscriptions/30e284fc-d23d-44fa-abdc-e37cea94439f/resourceGroups/rg-personal-ATeeriojaPortfolio/providers/Microsoft.Web/sites/ATeeriojaPortfolio",
+  "appService.deploySubpath": "."
+}
